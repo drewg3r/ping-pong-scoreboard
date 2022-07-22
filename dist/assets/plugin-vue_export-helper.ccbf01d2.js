@@ -1,0 +1,1 @@
+import{f as a}from"./index.a4eb2b7b.js";const t=a({player1Name:null,player2Name:null,scoreToWin:null,firstServePlayer:null,player1Score:null,player2Score:null,winner:null,showGameFinishedAlert:!1}),c=(e,r)=>{const l=e.__vccOpts||e;for(const[n,o]of r)l[n]=o;return l};export{c as _,t as s};
